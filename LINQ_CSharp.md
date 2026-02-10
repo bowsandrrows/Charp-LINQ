@@ -1,4 +1,4 @@
-﻿## 🔹 LINQ Cheat Sheet (C# Edition)
+﻿## 🔹 Jus a short LINQ cheat-sheet (C# Edition)
 
 ### Basic Setup
 Make sure this is included:
